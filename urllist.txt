@@ -1,14 +1,1 @@
-https://www.lifelock.com/
-https://www.lifelock.com/how-it-works/what-is-identity-theft/
-https://www.lifelock.com/how-it-works/overview/
-https://www.lifelock.com/how-it-works/lifelock-mobile-app/
-https://www.lifelock.com/products/
-https://www.lifelock.com/products/lifelock-standard/
-https://www.lifelock.com/products/lifelock-advantage/
-https://www.lifelock.com/products/lifelock-ultimate-plus/
-https://www.lifelock.com/products/lifelock-junior/
-https://www.lifelock.com/education/
-https://www.lifelock.com/reviews/
-https://www.lifelock.com/reviews/lifelock-standard/
-https://www.lifelock.com/reviews/lifelock-advantage/
-https://www.lifelock.com/reviews/lifelock-ultimate-plus/
+add URLs that you want to check separated by new lines
