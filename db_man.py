@@ -94,7 +94,7 @@ def second_latest(urls):
 	cur.execute('''SELECT * FROM 
 				(SELECT * FROM meta_elements
 				WHERE url = ?
-				ORDER BY date_time LIMIT 2) AS comp_url
+				ORDER BY date_time DESC LIMIT 2) AS comp_url
 				ORDER BY date_time LIMIT 1''', (url,))
 	return cur.fetchone()
 
